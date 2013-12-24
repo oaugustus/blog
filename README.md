@@ -3,6 +3,8 @@ BLOG
 
 Um blog de desenvolvimento, para desenvolvedores, não poderia estar em outro lugar além do GitHub. Começei esse blog como um repositório de traduções para minha equipe de desenvolvedores na Net On, mas acredito que posso compartilhar com eles um pouco do conhecimento que obtive também. E pensando bem, porque não compartilhar com quem tiver interesse em aprender, afinal sempre precisamos de bons desenvolvedores.
 
+Em geral, tentarei ser o mais direto possível, se o assunto for extenso, vamos dividir em partes. Mas quando for uma tradução isso não será possível.
+
 ## Sobre o que vamos falar:
 Resumindo:
 + JavaScript;
